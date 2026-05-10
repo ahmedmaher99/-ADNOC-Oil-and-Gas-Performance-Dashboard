@@ -19,7 +19,10 @@ The dashboard includes multiple analytical pages covering:
 - 📊 KPI tracking and trend analysis
 - 🛢️ Oil & gas production metrics
 - 📉 Revenue and EBITDA analysis
+# ⚠️ Disclaimer
 
+**Note:** The data used in this project is **not real company data**.  
+All datasets, KPIs, financial figures, and business metrics were created and used **for training, educational, and portfolio purposes only**.
 ---
 
 # 🎯 Project Objectives
