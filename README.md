@@ -35,7 +35,7 @@ The dashboard includes multiple analytical pages covering:
 # 📸 Dashboard Preview
 
 ## 🏠 Home Dashboard
-![Home Dashboard](images/home-dashboard.jpeg)
+![Home Dashboard](https://github.com/ahmedmaher99/-ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Home.jpeg)
 
 ---
 
